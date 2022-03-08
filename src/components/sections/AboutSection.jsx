@@ -22,7 +22,7 @@ export const AboutSection = () => {
             My name is Parisa, I am a Front-End Developer recently graduated
             from General Assembly with the background of Electronic Engineering
             and Acounting. The connected world of today and the very fast speed
-            of technology,also my passion to the constant learning as well as
+            of technology, also my passion to the constant learning as well as
             being a good problem solver has lead me into my desired career to
             become a Software Developer.
           </p>
