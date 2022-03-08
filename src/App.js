@@ -20,7 +20,7 @@ const App = () => {
       orange: "rgba(249, 105, 14, 1)",
     },
 
-    mobile: "768px",
+    mobile: "400px",
     transition: "all 650ms ease-in-out",
   };
   return (
