@@ -17,7 +17,10 @@ export const MainMiddleSection = () => {
       <MainContent>
         <h1>Parisa Heyd</h1>
         <h3>Front-End Web Developer</h3>
-        <p>Javascript - Ruby - React - Next.js - Node.js - HTML - CSS</p>
+        <p>
+          Javascript - Ruby - React - Redux, Next.js - Node.js - Express.js,
+          HTML - CSS
+        </p>
         <div>
           {/* <ResumeButton class="#projects" href="projects">
             Projects

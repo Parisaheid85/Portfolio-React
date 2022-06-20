@@ -31,4 +31,16 @@ export const Projects = [
     projectlink: "https://desshert.surge.sh/",
     projectlinkText: "view Project",
   },
+
+  {
+    image: "./images/React Context.png",
+    title: "Project 4",
+    tags: ["React", "Hooks", "Context-API", "CSS", "Surge"],
+    paragraph:
+      "An attempt of this project is to track our transaction whether its an earning or an expenses and can be recorded by the description, amount,type and also the date inwhich the transaction occured ",
+    codelink:
+      "https://github.com/Parisaheid85/Expense-Tracker-React-Context-API",
+    projectlink: "https://deranged-discussion.surge.sh/",
+    projectlinkText: "view Project",
+  },
 ];
